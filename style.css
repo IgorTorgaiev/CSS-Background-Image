@@ -1,0 +1,24 @@
+/* Below is the CSS coding for having the photo fixed while scrolling the page   */
+
+/* img {
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    margin-left: 1100px;
+    margin-right: 0;
+} */
+
+/* 
+Below is the CSS coding for having the photo scrolled together with the text   
+All we have done is the position change
+*/
+
+
+img {
+    height: 200px;
+    width: 200px;
+    margin-left: 1100px;
+    margin-right: 0;
+    position: absolute;
+}
+
